@@ -1,0 +1,328 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Additionalalerts Development Team
+# This file is distributed under the same license as the GLPI - Additionalalerts plugin package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI Project - morealerts plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-11 12:28+0200\n"
+"PO-Revision-Date: 2018-10-11 10:30+0000\n"
+"Last-Translator: Amandine Manceau\n"
+"Language-Team: English (United Kingdom) (http://www.transifex.com/tsmr/GLPI_morealerts/language/en_GB/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: setup.php:74 inc/additionalalert.class.php:48 inc/menu.class.php:41
+#: inc/profile.class.php:92
+msgid "Other alert"
+msgid_plural "Others alerts"
+msgstr[0] "Other alert"
+msgstr[1] "Others alerts"
+
+#: front/config.form.php:49
+msgid "Please activate the plugin"
+msgstr "Please activate the plugin"
+
+#: inc/additionalalert.class.php:110
+msgid "No used alerts"
+msgstr "No used alerts"
+
+#: inc/additionalalert.class.php:142
+msgid "No computers with no buy date"
+msgstr "No computers with no buy date"
+
+#: inc/additionalalert.class.php:163 inc/config.class.php:122
+#: inc/inkalert.class.php:48 inc/inkalert.class.php:98
+#: inc/inkalert.class.php:276 inc/inkalert.class.php:397
+#: inc/notificationtargetinkalert.class.php:45
+#: inc/notificationtargetinkalert.class.php:104
+msgid "Cartridges whose level is low"
+msgstr "Cartridges whose level is low"
+
+#: inc/additionalalert.class.php:170
+msgid "Ink level"
+msgstr "Ink level"
+
+#: inc/additionalalert.class.php:177
+msgid "No cartridge is below the threshold"
+msgstr "No cartridge is below the threshold"
+
+#: inc/additionalalert.class.php:181 inc/inkthreshold.class.php:55
+#: inc/inkthreshold.class.php:58
+msgid "Ink level alerts"
+msgstr "Ink level alerts"
+
+#: inc/additionalalert.class.php:181 inc/config.class.php:128
+#: inc/inkalert.class.php:404 inc/inkthreshold.class.php:69
+msgid "Fusioninventory plugin is not installed"
+msgstr "Fusioninventory plugin is not installed"
+
+#: inc/additionalalert.class.php:197
+msgid "Tickets unresolved since more"
+msgstr "Tickets unresolved since more"
+
+#: inc/additionalalert.class.php:213
+msgid "No tickets unresolved since more"
+msgstr "No tickets unresolved since more"
+
+#: inc/config.class.php:46 inc/infocomalert.class.php:60
+#: inc/inkalert.class.php:60
+msgid "Plugin setup"
+msgstr "Plugin setup"
+
+#: inc/config.class.php:133
+msgid "Unresolved Ticket Alerts"
+msgstr "Unresolved Ticket Alerts"
+
+#: inc/infocomalert.class.php:48
+msgid "Computer with no buy date"
+msgid_plural "Computers with no buy date"
+msgstr[0] "Computer with no buy date"
+msgstr[1] "Computers with no buy date"
+
+#: inc/infocomalert.class.php:351 inc/inkalert.class.php:331
+msgid "Parameter"
+msgstr "Parameter"
+
+#: inc/infocomalert.class.php:352
+msgid "Type not used for check of buy date"
+msgstr "Type not used for check of buy date"
+
+#: inc/inkalert.class.php:332
+msgid "Statutes used for the ink level"
+msgstr "Statutes used for the ink level"
+
+#: inc/ticketunresolved.class.php:48
+msgid "Ticket unresolved"
+msgid_plural "Tickets unresolved"
+msgstr[0] "Ticket unresolved"
+msgstr[1] "Tickets unresolved"
+
+#: inc/additionalalert.class.php:197
+msgid "Tickets waiting for validation alert"
+msgstr "Tickets waiting for validation alert"
+
+#: inc/additionalalert.class.php:213
+msgid "Tickets waiting for validation since more"
+msgstr "Tickets waiting for validation since more"
+
+#: inc/additionalalert.class.php:219
+msgid "No tickets waiting for validation since more"
+msgstr "No tickets waiting for validation since more"
+
+#: inc/additionalalert.class.php:197
+msgid "Tickets waiting for user response alert"
+msgstr "Tickets waiting for user response alert"
+
+#: inc/additionalalert.class.php:213
+msgid "Tickets waiting for user response since more"
+msgstr "Tickets waiting for user response since more"
+
+#: inc/additionalalert.class.php:219
+msgid "No tickets waiting for user response since more"
+msgstr "No tickets waiting for user response since more"
+
+#: inc/additionalalert.class.php:197
+msgid "Technician open tickets threshold alert"
+msgstr "Technician open tickets threshold alert"
+
+msgid "Technicians with too many open tickets"
+msgstr "Technicians with too many open tickets"
+
+msgid "No technician with too many open tickets"
+msgstr "No technician with too many open tickets"
+
+msgid "Technician"
+msgstr "Technician"
+
+msgid "Number of open tickets"
+msgstr "Number of open tickets"
+
+#: inc/additionalalert.class.php:197
+msgid "High priority ticket alert"
+msgstr "High priority ticket alert"
+
+msgid "High priority tickets not processed since more"
+msgstr "High priority tickets not processed since more"
+
+msgid "No high priority tickets not processed since more"
+msgstr "No high priority tickets not processed since more"
+
+msgid "Priority"
+msgstr "Priority"
+
+#: inc/infocomalert.class.php:48
+msgid "Computer with no inventory number"
+msgstr "Computer with no inventory number"
+
+msgid "Computer with no serial number"
+msgstr "Computer with no serial number"
+
+#: inc/additionalalert.class.php:197
+msgid "Tickets pending too long alert"
+msgstr "Tickets pending too long alert"
+
+msgid "Tickets pending too long since"
+msgstr "Tickets pending too long since"
+
+msgid "No tickets pending too long since"
+msgstr "No tickets pending too long since"
+
+#: inc/additionalalert.class.php:197
+msgid "Equipment with no location alert"
+msgstr "Equipment with no location alert"
+
+msgid "Equipments with no location"
+msgstr "Equipments with no location"
+
+msgid "No equipment with no location"
+msgstr "No equipment with no location"
+
+msgid "No location"
+msgstr "No location"
+
+#: inc/equipmentwarrantyalert.class.php
+msgid "Warranty expired alert"
+msgstr "Warranty expired alert"
+
+#: inc/equipmentendoflifealert.class.php
+msgid "End of life alert"
+msgstr "End of life alert"
+
+#: inc/equipmentnotinventoriedalert.class.php
+msgid "Not inventoried since X days"
+msgstr "Not inventoried since X days"
+
+#: inc/equipmentnoassignmentalert.class.php
+msgid "No assignment alert"
+msgstr "No assignment alert"
+
+#: inc/equipmentmissinginfoalert.class.php
+msgid "Missing info alert"
+msgstr "Missing info alert"
+
+#: inc/computernotusedalert.class.php
+msgid "Computer not used since X days"
+msgstr "Computer not used since X days"
+
+#: inc/peripheralnotlinkedalert.class.php
+msgid "Peripheral not linked alert"
+msgstr "Peripheral not linked alert"
+
+#: inc/equipmentbadlocationalert.class.php
+msgid "Bad location alert"
+msgstr "Bad location alert"
+
+#: inc/equipmentmaintenancealert.class.php
+msgid "Maintenance alert"
+msgstr "Maintenance alert"
+
+#: inc/equipmenthighincidentalert.class.php
+msgid "High incident alert"
+msgstr "High incident alert"
+
+#: inc/equipmentwarrantyalert.class.php
+msgid "No equipment with expired warranty"
+msgstr "No equipment with expired warranty"
+
+msgid "Equipments with expired warranty:"
+msgstr "Equipments with expired warranty:"
+
+msgid "No equipment with end of life reached"
+msgstr "No equipment with end of life reached"
+
+msgid "Equipments with end of life reached:"
+msgstr "Equipments with end of life reached:"
+
+msgid "No equipment not inventoried since X days"
+msgstr "No equipment not inventoried since X days"
+
+msgid "Equipments not inventoried since X days:"
+msgstr "Equipments not inventoried since X days:"
+
+msgid "No equipment without assignment"
+msgstr "No equipment without assignment"
+
+msgid "Equipments without assignment:"
+msgstr "Equipments without assignment:"
+
+msgid "No equipment with missing info"
+msgstr "No equipment with missing info"
+
+msgid "Equipments with missing info:"
+msgstr "Equipments with missing info:"
+
+msgid "No computer not used since X days"
+msgstr "No computer not used since X days"
+
+msgid "Computers not used since X days:"
+msgstr "Computers not used since X days:"
+
+msgid "No peripheral not linked"
+msgstr "No peripheral not linked"
+
+msgid "Peripherals not linked:"
+msgstr "Peripherals not linked:"
+
+msgid "No equipment with bad location"
+msgstr "No equipment with bad location"
+
+msgid "Equipments with bad location:"
+msgstr "Equipments with bad location:"
+
+msgid "No equipment with maintenance issue"
+msgstr "No equipment with maintenance issue"
+
+msgid "Equipments with maintenance issue:"
+msgstr "Equipments with maintenance issue:"
+
+msgid "No equipment with high incident count"
+msgstr "No equipment with high incident count"
+
+msgid "Equipments with high incident count:"
+msgstr "Equipments with high incident count:"
+
+#: inc/equipmentqualitymissingfieldsalert.class.php
+msgid "Missing or inconsistent required fields"
+msgstr "Missing or inconsistent required fields"
+
+#: inc/equipmentqualityduplicatesalert.class.php
+msgid "Detected duplicates"
+msgstr "Detected duplicates"
+
+#: inc/equipmentqualitybadassignmentalert.class.php
+msgid "Assignment to disabled/nonexistent user or service"
+msgstr "Assignment to disabled/nonexistent user or service"
+
+#: inc/equipmentqualitydatecoherencealert.class.php
+msgid "Incoherent dates (buy > warranty/commissioning)"
+msgstr "Incoherent dates (buy > warranty/commissioning)"
+
+#: inc/equipmentqualityobsoleteinfoalert.class.php
+msgid "Obsolete information (unsupported OS/firmware/version)"
+msgstr "Obsolete information (unsupported OS/firmware/version)"
+
+#: inc/equipmentqualitynomovehistoryalert.class.php
+msgid "No move or maintenance history"
+msgstr "No move or maintenance history"
+
+#: inc/equipmentqualitybadlocationrefalert.class.php
+msgid "Deleted or unreferenced location"
+msgstr "Deleted or unreferenced location"
+
+#: inc/equipmentqualityincompleterelationalert.class.php
+msgid "Incomplete relations (e.g. computer without monitor)"
+msgstr "Incomplete relations (e.g. computer without monitor)"
+
+#: inc/equipmentqualitybadstatusalert.class.php
+msgid "Inconsistent status (e.g. in stock but assigned)"
+msgstr "Inconsistent status (e.g. in stock but assigned)"
+
+#: inc/equipmentqualityoldmodifalert.class.php
+msgid "Not modified for over a year"
+msgstr "Not modified for over a year"
